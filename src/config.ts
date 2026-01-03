@@ -95,21 +95,17 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  name: "Colin Smith",
+  title: "Digital Marketing Strategy",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
-  avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
+    "Marketing professional specializing in digital strategy, web presence, and brand design. Helping businesses grow their digital footprint through data-driven marketing solutions and technology leadership.",
+  avatar: "../assets/colin-smith-profile.jpeg",
+  location: "🇺🇸 United States",
   email: "hello@example.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
+    github: "https://github.com/terminusagency",
+    linkedin: "https://www.linkedin.com/in/colinmsmith/",
+    instagram: "https://www.instagram.com/terminusagency",
   },
   enableThemeSelector: true,
   extraLinks: {
@@ -131,19 +127,19 @@ export const siteConfig: SiteConfig = {
         label: "Markdown Guide",
       },
       {
-        link: "https://github.com/lauroguedes/bloomfolio",
+        link: "https://github.com/terminusagency/bloomfolio",
         icon: CodeXml,
         label: "GitHub Repo",
       },
     ],
   },
   sections: {
-    about: true,
-    projects: true,
-    blog: true,
-    work: true,
-    education: true,
-    hackathons: true,
-    contact: true,
+    about: false,
+    projects: false,
+    blog: false,
+    work: false,
+    education: false,
+    hackathons: false,
+    contact: false,
   },
 };

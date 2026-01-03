@@ -42,7 +42,7 @@ A modern, customizable portfolio template built with **Astro 5** and **DaisyUI 5
 
 ```bash
 # Clone the repository
-git clone https://github.com/lauroguedes/bloomfolio.git
+git clone https://github.com/terminusagency/bloomfolio.git
 
 # Navigate to the project directory
 cd bloomfolio
@@ -304,7 +304,7 @@ Output is generated in `dist/` directory.
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lauroguedes/bloomfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/terminusagency/bloomfolio)
 
 1. Connect your GitHub repository
 2. Vercel auto-detects Astro
@@ -373,8 +373,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Support
 
 - 📖 [Documentation](https://bloomfolio-astro.vercel.app/blog/guides/bloomfolio-complete-guide)
-- 🐛 [Report Issues](https://github.com/lauroguedes/bloomfolio/issues)
-- 💬 [Discussions](https://github.com/lauroguedes/bloomfolio/discussions)
+- 🐛 [Report Issues](https://github.com/terminusagency/bloomfolio/issues)
+- 💬 [Discussions](https://github.com/terminusagency/bloomfolio/discussions)
 
 ---
 Please if you find this project helpful, consider giving it a ⭐ on GitHub!
