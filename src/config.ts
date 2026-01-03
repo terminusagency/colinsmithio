@@ -106,6 +106,7 @@ export const siteConfig: SiteConfig = {
     github: "https://github.com/terminusagency",
     linkedin: "https://www.linkedin.com/in/colinmsmith/",
     instagram: "https://www.instagram.com/terminusagency",
+    bluesky: "https://bsky.app/profile/terminusagency.bsky.social",
   },
   enableThemeSelector: true,
   extraLinks: {
